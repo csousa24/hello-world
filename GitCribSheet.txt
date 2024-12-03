@@ -1,3 +1,9 @@
+Author: Carolyn Sousa
+User name: csousa24
+Date: 12.3.24
+Version: 1.0
+
+
 GIT INSTALL
 
 GitHub for Windows https://windows.github.com GitHub for Mac https://mac.github.com
