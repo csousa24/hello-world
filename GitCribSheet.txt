@@ -1,8 +1,7 @@
 Author: Carolyn Sousa
 User name: csousa24
 Date: 12.3.24
-License: MIT Open Source Initiative
-Version: 1.5
+Version: 1.0
 
 
 GIT INSTALL
